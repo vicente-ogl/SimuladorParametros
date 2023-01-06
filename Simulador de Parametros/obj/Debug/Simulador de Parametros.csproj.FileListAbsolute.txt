@@ -1,0 +1,25 @@
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\Simulador de Parametros.exe.config
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\Simulador de Parametros.exe
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\Simulador de Parametros.pdb
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\ScottPlot.dll
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\ScottPlot.WPF.dll
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\System.Drawing.Common.dll
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\System.ValueTuple.dll
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\ScottPlot.xml
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\bin\Debug\System.ValueTuple.xml
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros.csproj.AssemblyReference.cache
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\MainWindow.g.cs
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\App.g.cs
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros_MarkupCompile.cache
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros_MarkupCompile.lref
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\MainWindow.baml
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros.g.resources
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador_de_Parametros.Properties.Resources.resources
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros.csproj.GenerateResource.cache
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros.csproj.CoreCompileInputs.cache
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros.csproj.CopyComplete
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros.exe
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros.pdb
+C:\Users\Vicho\source\repos\Simulador de Parametros\Simulador de Parametros\obj\Debug\Simulador de Parametros.csproj.SuggestedBindingRedirects.cache
